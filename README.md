@@ -1,16 +1,14 @@
-## Hi there 👋
+Meu nome é Leonardo Rodrigues
 
-<!--
-**DracPiece/DracPiece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando na Alura
 
-Here are some ideas to get you started:
+Estou me desenvolvendo na linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estes são alguns projetos que eu já criei na Alura utilizando a linguagem de programação JavaScript
+
+Links:
+
+projeto Pong:https://editor.p5js.org/analu.sampaio.2812/sketches/eB4V2-WsR
+
+projeto animação de palavras:https://editor.p5js.org/DracPiece/sketches/Q-Y0cVQih
+
